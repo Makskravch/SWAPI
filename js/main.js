@@ -1,0 +1,4 @@
+document.addEventListener('DOMContentLoaded', function () {
+  const app = document.getElementById('app')
+  console.log(app);
+});
